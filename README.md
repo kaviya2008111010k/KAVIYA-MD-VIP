@@ -63,7 +63,7 @@ Hi guys, deploy MONEY HEIST MD bot and enjoy using it.
 </br>
 
 ## Deploy.
-[![Deploy on Heroku](https://img.shields.io/badge/money_heist_deploy_on_heroku-7300d8?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com/deploy?template=https://github.com/moneyheistVIP/MONEY-HEIST-VIP)
+[![Deploy on Heroku](https://img.shields.io/badge/money_heist_deploy_on_heroku-7300d8?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com/deploy?template=https://github.com/kaviya2008111010k/KAVIYA-MD-VIP)
   
 [![Deploy on Railway](https://img.shields.io/badge/Money_HeistMD_deploy_on_railway-00c851?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app?referralCode=Money_Heist)
    
